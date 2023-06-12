@@ -2,7 +2,7 @@
 
 
   
-**In conclusion,** it seems like I stumbled through the project like a clumsy panda trying to do calculus. I mean, who has the time and patience to calculate the EPS of every company in the index and then weigh them?  :rofl::rofl::rofl:
+**In conclusion,** it seems like I stumbled through the project. I mean, who has the time and patience to calculate the EPS of every company in the index and then weigh them?  :rofl::rofl::rofl:
 
 And let's not even get started on the out-of-sample method. it just doesn't make any sense. It's probably as accurate as a squirrel predicting the stock market.
 
